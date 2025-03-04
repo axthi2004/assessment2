@@ -1,7 +1,4 @@
 class repeat {
-  /**
- * @param args
- */
 public static void main(String[] args) {
       String input = "t6hj7ui";
       char charToRepeat = input.charAt(0);  
